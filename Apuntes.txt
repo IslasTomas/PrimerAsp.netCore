@@ -7,3 +7,12 @@ Razor es un lenguaje debilmente tipado por lo cual se presta a que se produscan 
 para evitalor podemos definir que clases va a utilizar Razor 
 ej:  @model Escuela  de esta forma obligamos a que la entrada del modelos sea
 de tipo Escuela, asi podemos detectar errores en compilacion.
+
+ViewBag: Es un dato dinamico que lo defino del controller y lo uso para 
+	envia datos a la vista aparte de los que le mandamos por el modelo
+	lo creo desde el controlador:  ViewBag.CosaDinamica = un dato
+	lo recibo desde la vista(view) con: @ViewBag.CosaDinamica
+	tambien lo puedo recibir mediante: @ViewData["CosaDinamica"]
+
+@ViewBag y @ViewData  son 2 vistas de la misma informacion,
+ lo que cambia es la forma en que la accedemos

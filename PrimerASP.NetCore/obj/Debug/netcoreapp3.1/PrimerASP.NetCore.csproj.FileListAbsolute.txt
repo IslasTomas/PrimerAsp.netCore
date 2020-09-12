@@ -36,3 +36,4 @@ C:\Users\tomas\Documents\PROYECTOS DE CURSOS\PrimerASP.NetCore\PrimerASP.NetCore
 C:\Users\tomas\Documents\PROYECTOS DE CURSOS\PrimerASP.NetCore\PrimerASP.NetCore\obj\Debug\netcoreapp3.1\PrimerASP.NetCore.pdb
 C:\Users\tomas\Documents\PROYECTOS DE CURSOS\PrimerASP.NetCore\PrimerASP.NetCore\obj\Debug\netcoreapp3.1\PrimerASP.NetCore.genruntimeconfig.cache
 C:\Users\tomas\Documents\PROYECTOS DE CURSOS\PrimerASP.NetCore\PrimerASP.NetCore\obj\Debug\netcoreapp3.1\PrimerASP.NetCore.csproj.CopyComplete
+C:\Users\tomas\Documents\PROYECTOS DE CURSOS\PrimerASP.NetCore\PrimerASP.NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Simple.cshtml.g.cs
