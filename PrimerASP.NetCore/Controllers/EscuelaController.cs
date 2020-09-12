@@ -3,14 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using PrimerASP.NetCore.Models;
 
 namespace PrimerASP.NetCore.Controllers
 {
     public class EscuelaController : Controller
-    {
+    {///Los controladores son los que hacen la coneccion entre las vistas y el modelo
         public IActionResult Index()
         {
-            return View();
+            var escuela = new Escuela();            ///Creamos un obejto escuela que lo definimos en el Models
+            escuela.AñoFundacion = 2000;
+            escuela.EscuelaId = Guid.NewGuid().ToString();
+            escuela.Nombre = "San Cayetano";
+            return View(escuela);  //Enviamos por parametro la escuela a la vista (a escuela index)
         }
     }
 }

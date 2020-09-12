@@ -19,7 +19,6 @@ C:\Users\tomas\Documents\PROYECTOS DE CURSOS\PrimerASP.NetCore\PrimerASP.NetCore
 C:\Users\tomas\Documents\PROYECTOS DE CURSOS\PrimerASP.NetCore\PrimerASP.NetCore\obj\Debug\netcoreapp3.1\PrimerASP.NetCore.TagHelpers.input.cache
 C:\Users\tomas\Documents\PROYECTOS DE CURSOS\PrimerASP.NetCore\PrimerASP.NetCore\obj\Debug\netcoreapp3.1\PrimerASP.NetCore.TagHelpers.output.cache
 C:\Users\tomas\Documents\PROYECTOS DE CURSOS\PrimerASP.NetCore\PrimerASP.NetCore\obj\Debug\netcoreapp3.1\PrimerASP.NetCore.RazorCoreGenerate.cache
-C:\Users\tomas\Documents\PROYECTOS DE CURSOS\PrimerASP.NetCore\PrimerASP.NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Escuela - Copia\Index.cshtml.g.cs
 C:\Users\tomas\Documents\PROYECTOS DE CURSOS\PrimerASP.NetCore\PrimerASP.NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Escuela\Index.cshtml.g.cs
 C:\Users\tomas\Documents\PROYECTOS DE CURSOS\PrimerASP.NetCore\PrimerASP.NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\tomas\Documents\PROYECTOS DE CURSOS\PrimerASP.NetCore\PrimerASP.NetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
