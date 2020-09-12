@@ -1,0 +1,9 @@
+Razor syntax: Nos permite usar codigo del backend en las vistas  del frontend
+	nos permite alternar entre frontend y backend. Lo hacemos con "@"
+	ej: @{codigo c#}
+	@Model  (asi nos referimos al obejto enviado por el controlador)  
+	@UnaFuncion 
+Razor es un lenguaje debilmente tipado por lo cual se presta a que se produscan errores en ejecucion
+para evitalor podemos definir que clases va a utilizar Razor 
+ej:  @model Escuela  de esta forma obligamos a que la entrada del modelos sea
+de tipo Escuela, asi podemos detectar errores en compilacion.

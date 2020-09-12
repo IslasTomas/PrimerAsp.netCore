@@ -50,7 +50,9 @@ namespace PrimerASP.NetCore
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Escuela}/{action=Index}/{id?}");
+                //aca definimos que controlador va a cargr nuestro home. "controller"
+                //en {action} definimos que vista  se va a cargar por default
             });
         }
     }
