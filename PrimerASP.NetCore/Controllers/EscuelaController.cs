@@ -12,8 +12,8 @@ namespace PrimerASP.NetCore.Controllers
         public IActionResult Index()
         {
             var escuela = new Escuela();            ///Creamos un obejto escuela que lo definimos en el Models
-            escuela.AñoFundacion = 2000;
-            escuela.EscuelaId = Guid.NewGuid().ToString();
+            escuela.AñoDeCreacion = 2000;
+            escuela.UniqueId= Guid.NewGuid().ToString();
             escuela.Nombre = "San Cayetano";
             return View(escuela);  //Enviamos por parametro la escuela a la vista (a escuela index)
         }
